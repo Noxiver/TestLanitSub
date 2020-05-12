@@ -22,7 +22,6 @@ public class Hooks {
         WebDriver driver = new ChromeDriver(options);
         driver.manage().window().maximize();
         WebDriverRunner.setWebDriver(driver);
-        System.out.println("Мы в бефор хукс");
     }
 
     @After

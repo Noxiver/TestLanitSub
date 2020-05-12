@@ -9,6 +9,5 @@ public class strings {
 
     public static final String userLogin = "Noxiver";
     public static final String userPassword = "Strekoza";
-    public static final String userMessage = "И снова привет мир!";
 
 }

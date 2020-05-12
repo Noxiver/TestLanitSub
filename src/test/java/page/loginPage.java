@@ -9,7 +9,7 @@ import page.annotations.Page;
 import static com.codeborne.selenide.Selenide.$;
 
 
-@Page(title = "Страница входа", url = " ")
+@Page(title = "Страница логина", url = " ")
 public class loginPage extends AbstractPage {
 
     @Element("Логин")
